@@ -1,0 +1,3572 @@
+
+
+
+
+.carre1 {
+    background-color: #F2F2F2;
+    width: 1125px;
+    height: 800px;
+    border-radius: 28px;
+    display: inline-block;
+    margin: 2% 1% 1% 5%;
+
+
+}
+
+.carre2 {
+    background-color: #F2F2F2;
+    width: 523px;
+    height: 800px;
+    border-radius: 28px;
+    float: right;
+    margin: 2% 5% 1% 0%;
+
+}
+
+
+.logo {
+    display: block;
+  position: relative;
+    margin-top: 4%;
+    margin-left: 5%;
+    background-color: green;
+    width:150px ;
+    
+}
+
+.logoReservia {
+margin-top: 3%;
+    width: 150Px;
+    height: 60px;
+    margin-bottom: 3%;
+    
+    margin-left: 5%;
+}
+
+.Bold {
+    font-size: 30px;
+    margin-left: 5%;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    margin-bottom: 7px;
+ 
+
+
+}
+
+.normal {
+    font-size: 21px;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 5%;
+    margin-bottom: 1%;
+
+}
+
+
+
+
+
+.normal1 {
+
+
+    font-size: 21px;
+    font-family: 'Raleway', sans-serif;
+    margin-right: 63.8%;
+    float: right;
+    margin-left: 7%;
+    margin-top: 0.0%;
+    
+
+
+
+}
+
+
+
+
+
+.text {
+
+   border: none;
+    width: 303px;
+    height: 57px;
+    font-family: 'Raleway', sans-serif;
+font-size: 22px;
+font-weight: bold;
+
+}
+
+.rechercher2 {
+
+    background-color: #F2F2F2;
+    width: 307.2px;
+    height: 61px;
+    ;
+    border-radius: 21px 0px 0px 21px;
+    margin-left: 5%;
+    margin-bottom: 3%;
+    padding-left: 3.5%;
+    padding-top: 0.1300%;
+    padding-bottom: 0.0080%;
+    margin-right: 0%;
+    display: inline-block;
+
+
+}
+
+.location{
+
+    position: absolute;
+    margin-top: 1%;
+margin-left: 6.25%;
+font-size: 23px;
+
+}
+
+.rechercher3 {
+
+    background-color: #0065FC;
+    width: 180px;
+    height: 62px;
+    ;
+    border-radius: 0px 21px 21px 0px;
+    float: right;
+    margin-right: 65.65%;
+    margin-top: 1.5px;
+    
+    
+
+}
+
+
+.rechercher4 {
+position: absolute;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 23px;
+    margin-top: 0.9%;
+margin-left: 
+1.3%;
+}
+
+.Bold6 {
+
+   
+    font-size: 26px;
+    margin-left: 5%;
+
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    margin-top: 15px;
+    float: left;
+    background-color: white;
+   
+width: 60px;
+height: 60px;
+
+
+}
+
+
+.Bold2 {
+
+
+    font-size: 30px;
+    margin-left: 5%;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    margin-top: 15px;
+
+    position: relative;
+
+
+}
+
+
+.rectangle {
+
+    background-color: #F2F2F2;
+    width: 1810px;
+    height: 280px;
+  
+
+
+    margin: 3% 5% 1% 2%;
+
+}
+
+.cercle {
+
+
+    position: absolute;
+    background-color: #DEEBFF;
+    width: 69px;
+    height: 69px;
+    border-radius: 50%;
+ 
+    margin-top:-1.25%;
+    margin-left: -1.25%;
+
+
+}
+
+.cercle:hover {
+
+    
+    background-color: #0065FC;
+    
+    
+
+}
+
+.bill {
+   
+    position: absolute;
+    text-align: center;
+    
+    padding-top: 35%;
+    width: 69px;
+    height: 45px;
+    border-radius: 50%;
+z-index: 2;
+    margin-left: 0%;
+
+
+
+
+font-size: 23px;
+color: #0065FC;
+
+
+}
+
+.bill:hover {
+
+color: white;
+
+}
+
+.rectangle1 {
+
+    position: absolute;
+    background-color: white;
+    width: 260px;
+    height: 63px;
+    border-radius: 33px 33px 33px 33px;
+    border-style: solid;
+    border-color: #DADADA;
+    margin-left: 10.6%;
+
+
+    float: right;
+
+
+
+}
+
+.rectangle1:hover .economique
+
+{
+
+    color: #DEEBFF;
+   
+}
+
+
+.rectangle1:hover .cercle
+
+{
+
+    background-color: #0065FC;
+   
+}
+
+
+.rectangle1:hover .bill
+
+{
+
+    color: white;
+   
+}
+
+
+.economique {
+
+position: absolute;
+font-family: 'Raleway', sans-serif;
+font-size: 22px;
+font-weight: bold;
+margin: 6.5% 16% 0% 30%;
+
+}
+
+
+
+
+
+
+.cercle1 {
+
+    position: absolute;
+    background-color: #DEEBFF;
+    width: 69px;
+    height: 69px;
+    border-radius: 50%;
+
+    margin-left: 26.2%;
+
+    margin-top:-1.5%;
+    margin-left: -2%;
+
+    z-index: 2;
+
+
+}
+
+
+
+.familial {
+
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 8.5% 16% 0% 38%;
+    
+    }
+  
+
+    .child {
+
+position: absolute;
+
+margin-left: 35%;
+margin-top: 32%;
+font-size: 27px;
+
+
+color: #0065FC;
+    }
+
+
+
+.rectangle2 {
+
+    position: absolute;
+    background-color: white;
+    width: 200px;
+    height: 63px;
+    border-radius: 33px 33px 33px 33px;
+    border-style: solid;
+    border-color: #DADADA;
+    margin-left: 26.4%;
+
+
+    float: right;
+
+
+
+}
+
+
+.rectangle2:hover .cercle1 {
+
+    background-color: #0065FC;
+
+
+}
+
+.rectangle2:hover .child {
+
+    
+color: white;
+
+}
+
+.rectangle2:hover .familial {
+
+    color: #DEEBFF;
+    
+}
+
+
+
+
+
+
+.romantique {
+
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 8.5% 16% 0% 34%;
+    
+    }
+    
+
+
+.cercle2 {
+
+    position: absolute;
+    background-color: #DEEBFF;
+    width: 69px;
+    height: 69px;
+    border-radius: 50%;
+
+    margin-left: 38.7%;
+
+    margin-top:-1.5%;
+    margin-left: -2%;
+
+    z-index: 2;
+
+
+}
+
+
+.coeur {
+
+    margin-left: 30%;
+    margin-top: 36%;
+    font-size: 23px;
+    color: #0065FC;
+    
+    
+    }
+
+
+
+.rectangle3 {
+
+    position: absolute;
+    background-color: white;
+    width: 220px;
+    height: 63px;
+    border-radius: 33px 33px 33px 33px;
+    border-style: solid;
+    border-color: #DADADA;
+    margin-left: 39.5%;
+   
+
+    float: right;
+
+
+
+}
+
+
+
+.rectangle3:hover .cercle2 {
+
+    background-color: #0065FC;
+    
+}
+
+
+
+.rectangle3:hover .coeur {
+
+    color:white;
+    
+}
+
+.rectangle3:hover .romantique {
+
+
+    color: #DEEBFF;
+
+    
+}
+
+.animaux {
+
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 6.5% 16% 0% 25%;
+    width: 200px;
+    }
+
+.cercle3 {
+
+    position: absolute;
+    background-color: #DEEBFF;
+    width: 69px;
+    height: 69px;
+    border-radius: 50%;
+
+    margin-top:-1.5%;
+    margin-left: -2%;
+
+    
+
+    z-index: 2;
+
+
+}
+
+
+.chien {
+
+    margin-left: 30%;
+    margin-top: 36%;
+    font-size: 23px;
+    color: #0065FC;
+    
+    
+    }
+
+
+
+
+.rectangle4 {
+
+    position: absolute;
+    background-color: white;
+    width: 290px;
+    height: 63px;
+    border-radius: 33px 33px 33px 33px;
+    border-style: solid;
+    border-color: #DADADA;
+    margin-left: 53%;
+
+
+    float: right;
+
+
+
+}
+
+.rectangle4:hover .chien {
+
+color: white;
+
+}
+
+.rectangle4:hover .cercle3 {
+
+background-color: #0065FC;
+
+}
+
+.rectangle4:hover .animaux {
+
+color: #DEEBFF;
+
+}
+
+
+
+
+
+
+.textRectangle1 {
+
+
+
+    margin-top: 2.5%;
+    margin-left: 3.5%;
+    float: left;
+
+
+
+
+
+}
+
+.textRectangle2 {
+
+
+
+    width: 250px;
+    margin-left: 18%;
+    display: inline-block;
+    margin-top: 2.5%;
+
+
+
+
+}
+
+.textRectangle3 {
+
+
+    margin-top: 2.5%;
+    margin-right: 26%;
+    float: right;
+
+}
+
+
+.textBold {
+    font-size: 25px;
+
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+
+
+
+}
+
+.textBold1 {
+    font-size: 22px;
+
+
+    font-family: 'Raleway', sans-serif;
+
+
+
+
+
+
+
+}
+
+
+
+.menu{
+
+   
+}
+
+a {
+
+    text-decoration: none;
+ color: black;
+}
+
+
+.hébergements {
+  
+position: absolute;
+    width: 140px;
+    font-size: 20px;
+    font-weight: 500;
+margin-left: 68%;
+display: block;
+margin-top: 60px;
+color: black;
+
+  
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+
+.hébergements:hover {
+position: absolute;
+    width: 200px;
+    padding-left: 2.5%;
+    margin-left: 65.5%;
+    color:#0065FC;
+
+
+}
+
+.Barre::before {
+  
+position: absolute;
+    margin-left: 68%;
+    margin-top: 60px;
+    content: "";
+    
+    height: 0.25em;
+    width: 0%;
+   
+    background-color: #0065FC;
+   
+    display:inline-block ;
+    
+
+}
+
+.Barre:hover::before{
+
+
+position: absolute;
+width: 13%;
+margin-left: 65.5%;
+margin-top: 0px;   
+    
+}
+
+.activités {
+  
+    position: absolute;
+        width: 85px;
+        font-size: 20px;
+        font-weight: 500;
+    margin-left: 79.8%;
+    display: block;
+    margin-top: 60px;
+    color: black;
+    
+      
+        font-family: 'Raleway', sans-serif;
+        
+    }
+    
+    
+    .activités:hover {
+    position: absolute;
+        width: 13 0px;
+        padding-left: 2.5%;
+        margin-left: 77.3%;
+      color:#0065FC;
+    
+    
+    }
+    
+    .Barre1::before {
+      
+    position: absolute;
+        margin-left: 79.8%;
+        margin-top: 60px;
+        content: "";
+        
+        height: 0.25em;
+        width: 0%;
+       
+        background-color: #0065FC;
+       
+        display:inline-block ;
+        
+    
+    }
+    
+    .Barre1:hover::before{
+    
+    
+    position: absolute;
+    width: 10%;
+    margin-left: 77.3%;
+    margin-top: 0px;   
+        
+    }
+    
+
+
+    .inscription {
+  
+        position: absolute;
+            width: 85px;
+            font-size: 20px;
+            font-weight: bold;
+        margin-left: 88.8%;
+        display: block;
+        margin-top: 60px;
+        
+     
+        
+         
+            font-family: 'Raleway', sans-serif;
+            color: #0065FC;
+        }
+        
+        
+        .inscription:hover {
+        position: absolute;
+            width: 13 0px;
+            padding-left: 2.5%;
+            margin-left: 86.3%;
+
+          
+        
+        
+        }
+
+        
+        
+        .Barre2::before {
+          
+        position: absolute;
+            margin-left: 88.8%;
+            margin-top: 60px;
+            content: "";
+            
+            height: 0.25em;
+            width: 0%;
+           
+            background-color: #0065FC;
+           
+            display:inline-block ;
+            
+        
+        }
+        
+        .Barre2:hover::before{
+        
+        
+        position: absolute;
+        width: 10%;
+        margin-left: 86.3%;
+        margin-top: 0px;   
+            
+        }
+
+
+.miniCercle{
+    margin-left: 5%;
+    position: absolute;
+ 
+    border-style:solid;
+    border-color: #F2F2F2;
+    border-width: 2px;
+    border-radius: 20px;
+    padding: 0.3% 0.6% 0.3% 0.6%;
+    margin-top: -0.05%;
+font-size: 14px;
+color: #0065FC;
+
+
+}
+
+
+
+
+.VieuxPort {
+    position: absolute;
+    background-color: white;
+    width: 400px;
+
+    height: 45px;
+    border-radius: 28px;
+
+    padding-bottom: 0.5%;
+
+    padding-top: 27.7%;
+    box-shadow: 0px 0px 7px 7px #F2F2F2;
+    margin: 1.3% 0% 1% 5%;
+
+
+}
+
+
+
+.VieuxPort0 {
+
+    position: absolute;
+    background-image: url(/Img/Activités/VieuxPort.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 0px;
+
+    background-size: 220%;
+    z-index: 1;
+    border-radius: 28px 28px 0% 0%;
+    width: 400px;
+    height: 515px;
+    margin: 1.3% 0% 1% 5%;
+
+
+}
+
+
+.Bold1 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    width: 200px;
+    height: 10px;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 5%;
+    margin-top: 4%;
+
+}
+
+.Bold0 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    width: 200px;
+    height: 10px;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 5%;
+    margin-top: 3%;
+
+}
+
+
+
+.FortDePomègues {
+    position: absolute;
+    background-color: white;
+    background-image: url(/Img/Activités/Frioul.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: -130px;
+    background-size: 100%;
+    object-fit: cover;
+
+
+
+    border-radius: 28px 28px 0% 0%;
+    width: 400px;
+    height: 232px;
+
+
+    margin: 1.3% 0% 1% 28%;
+
+}
+
+.FortDePomègues0 {
+
+    position: absolute;
+    background-color: white;
+    width: 400px;
+
+    height: 50px;
+    border-radius: 28px;
+
+    padding-top: 12.5%;
+    padding-bottom: 0.5%;
+    box-shadow: 0px 0px 7px 3px #F2F2F2;
+
+
+    margin: 1.3% 0% 1% 28%;
+
+
+}
+
+
+
+.Port {
+    position: absolute;
+    background-color: white;
+    background-image: url(/Img/Activités/Port.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: -15px;
+    background-size: 100%;
+    overflow: hidden;
+
+
+
+    border-radius: 28px 28px 0% 0%;
+    width: 400px;
+    height: 150px;
+
+
+    margin: 20.5% 0% 1% 28%;
+
+}
+
+.Port0 {
+
+    position: absolute;
+    background-color: white;
+    width: 400px;
+
+    height: 50px;
+    border-radius: 28px;
+
+    padding-top: 8.2%;
+    padding-bottom: 0.5%;
+    box-shadow: 0px 0px 7px 3px #F2F2F2;
+
+
+    margin: 20.5% 0% 1% 28%;
+
+
+}
+
+
+
+.Calanques {
+    position: absolute;
+    background-color: white;
+    width: 400px;
+
+    height: 45px;
+    border-radius: 28px;
+
+    padding-bottom: 1%;
+
+
+    box-shadow: 0px 0px 7px 7px #F2F2F2;
+    margin: 1.3% 0% 1% 51%;
+
+
+    padding-top: 27.2%;
+
+
+}
+
+
+
+.Calanques0 {
+
+    position: absolute;
+    background-image: url(/Img/Activités/Calanques.jpg);
+    background-repeat: no-repeat;
+    background-position-x: -241px;
+    background-position-y: -0px;
+    background-size: 221%;
+    z-index: 1;
+    border-radius: 28px 28px 0% 0%;
+    width: 400px;
+    height: 515px;
+    margin: 1.3% 0% 1% 51%;
+
+
+
+}
+
+.Bold3 {
+
+    position: absolute;
+    font-size: 23px;
+    margin-left: 5%;
+
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    margin-top: 15px;
+    float: left;
+    background-color: white;
+    width: 350px;
+    height: 30px;
+}
+
+
+
+
+.NotreDame {
+    position: absolute;
+    background-color: white;
+    background-image: url(/Img/Activités/NotreDame.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: top;
+    background-size: 100%;
+    object-fit: cover;
+
+
+
+    border-radius: 28px 28px 0% 0%;
+    width: 400px;
+    height: 185px;
+
+
+    margin: 1.3% 5% 1% 75%;
+
+}
+
+.NotreDame0 {
+
+    position: absolute;
+    background-color: white;
+    width: 400px;
+
+    height: 50px;
+    border-radius: 28px;
+
+    padding-top: 9.8%;
+    padding-bottom: 0.8%;
+    box-shadow: 0px 0px 7px 3px #F2F2F2;
+
+
+    margin: 1.3% 5% 1% 75%;
+
+
+}
+
+.Parc {
+    position: absolute;
+    background-color: white;
+    background-image: url(/Img/Activités/Parc5.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 0px;
+    background-size: 100%;
+    object-fit: cover;
+
+
+
+    border-radius: 28px 28px 0% 0%;
+    width: 400px;
+    height: 214px;
+
+
+    margin: 17.1% 10% 1% 75%;
+
+}
+
+.Parc0 {
+
+    position: absolute;
+    background-color: white;
+    width: 400px;
+
+    height: 50px;
+    border-radius: 28px;
+
+    padding-top: 11.5%;
+    padding-bottom: 0.5%;
+    box-shadow: 0px 0px 7px 3px #F2F2F2;
+
+
+    margin: 17.1% 5% 1% 75%;
+
+
+}
+
+.Canebiere {
+    position: absolute;
+    background-color: white;
+    background-image: url(/Img/Hebergements/canebiere.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 100%;
+    object-fit: cover;
+
+
+
+    border-radius: 28px 28px 0% 0%;
+    width: 300px;
+    height: 150px
+}
+
+.Canebiere0 {
+
+    position: absolute;
+    background-color: white;
+    width: 300px;
+
+    height: 240px;
+    border-radius: 28px;
+
+    padding: 0.3% 0.3% 0.3% 0.3%;
+    padding-bottom: 0.5%;
+    box-shadow: 0px 0px 7px 3px #F2F2F2;
+
+
+    margin: 6% 0% 1% 2.5%;
+
+
+}
+
+.CarreBold1 {
+    position: absolute;
+    font-size: 21px;
+    font-weight: bold;
+    width: 250px;
+    height: 10px;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 50.5%;
+    margin-left: 4%;
+}
+
+
+.CarreText1 {
+    position: absolute;
+    font-size: 18px;
+
+    width: 150px;
+    height: 10px;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 59.5%;
+    margin-left: 4%;
+
+}
+
+.CarreBold2 {
+    position: absolute;
+    font-size: 19px;
+    font-weight: bold;
+    width: 50px;
+    height: 10px;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 59.5%;
+    margin-left: 47%;
+}
+
+
+
+.star {
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-top: 67.5%;
+    margin-left: 4%;
+    color: #0065FC;
+
+}
+
+.star1 {
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-top: 67.5%;
+    margin-left: 10%;
+    color: #0065FC;
+
+}
+
+.star2 {
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-top: 67.5%;
+    margin-left: 16%;
+    color: #0065FC;
+
+}
+
+.star3 {
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-top: 67.5%;
+    margin-left: 22%;
+    color: #0065FC;
+
+}
+
+.star4 {
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-top: 67.5%;
+    margin-left: 28%;
+    color: #e9e9e9;
+
+
+}
+
+.HotelPort {
+    position: absolute;
+    background-color: white;
+    background-image: url(/Img/Hebergements/port.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 110%;
+    object-fit: cover;
+
+
+
+    border-radius: 28px 28px 0% 0%;
+    width: 300px;
+    height: 150px
+}
+
+.HotelPort0 {
+
+    position: absolute;
+    background-color: white;
+    width: 300px;
+
+    height: 240px;
+    border-radius: 28px;
+
+    padding: 0.3% 0.3% 0.3% 0.3%;
+    padding-bottom: 0.5%;
+    box-shadow: 0px 0px 7px 3px #F2F2F2;
+
+
+    margin: 6% 0% 1% 21.25%;
+
+
+}
+
+.CarreText2 {
+    position: absolute;
+    font-size: 18px;
+
+    width: 180px;
+    height: 10px;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 59.5%;
+    margin-left: 4%;
+
+}
+
+.star5 {
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-top: 67.5%;
+    margin-left: 28%;
+    color: #0065FC;
+
+
+}
+
+.Mouettes {
+    position: absolute;
+    background-color: white;
+    background-image: url(/Img/Hebergements/mouettes.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 100%;
+    object-fit: cover;
+
+
+
+    border-radius: 28px 28px 0% 0%;
+    width: 300px;
+    height: 150px
+}
+
+.Mouettes0 {
+
+    position: absolute;
+    background-color: white;
+    width: 300px;
+
+    height: 240px;
+    border-radius: 28px;
+
+    padding: 0.3% 0.3% 0.3% 0.3%;
+    padding-bottom: 0.5%;
+    box-shadow: 0px 0px 7px 3px #F2F2F2;
+
+
+    margin: 6% 2.3% 1% 40%;
+
+
+}
+
+.Mer {
+    position: absolute;
+    background-color: white;
+    background-image: url(/Img/Hebergements/mer.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 100%;
+    object-fit: cover;
+
+
+
+    border-radius: 28px 28px 0% 0%;
+    width: 300px;
+    height: 150px
+}
+
+.Mer0 {
+
+    position: absolute;
+    background-color: white;
+    width: 300px;
+
+    height: 240px;
+    border-radius: 28px;
+
+    padding: 0.3% 0.3% 0.3% 0.3%;
+    padding-bottom: 0.5%;
+    box-shadow: 0px 0px 7px 3px #F2F2F2;
+
+
+    margin: 21.8% 0% 1% 2.5%;
+
+
+}
+
+.star6 {
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-top: 67.5%;
+    margin-left: 22%;
+    color: #e9e9e9;
+
+
+}
+
+.Panier {
+    position: absolute;
+    background-color: white;
+    background-image: url(/Img/Hebergements/panier.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 100%;
+    object-fit: cover;
+
+
+
+    border-radius: 28px 28px 0% 0%;
+    width: 300px;
+    height: 150px
+}
+
+.Panier0 {
+
+    position: absolute;
+    background-color: white;
+    width: 300px;
+
+    height: 240px;
+    border-radius: 28px;
+
+    padding: 0.3% 0.3% 0.3% 0.3%;
+    padding-bottom: 0.5%;
+    box-shadow: 0px 0px 7px 3px #F2F2F2;
+
+
+    margin: 21.8% 2.3% 1% 21.25%;
+
+
+}
+
+.Amina {
+    position: absolute;
+    background-color: white;
+    background-image: url(/Img/Hebergements/amina.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 100%;
+    object-fit: cover;
+
+
+
+    border-radius: 28px 28px 0% 0%;
+    width: 300px;
+    height: 150px
+}
+
+.Amina0 {
+
+    position: absolute;
+    background-color: white;
+    width: 300px;
+
+    height: 240px;
+    border-radius: 28px;
+
+    padding: 0.3% 0.3% 0.3% 0.3%;
+    padding-bottom: 0.5%;
+    box-shadow: 0px 0px 7px 3px #F2F2F2;
+
+
+    margin: 21.8% 2.3% 1% 40%;
+
+
+}
+
+.CarreBold3 {
+
+    position: absolute;
+    font-size: 19px;
+    font-weight: bold;
+    width: 50px;
+    height: 10px;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 59.5%;
+    margin-left: 54.1%;
+
+}
+
+
+.Bold5 {
+
+
+    font-size: 30px;
+    margin: 2.5% 0% 2.5% 2.5%;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    
+
+    position: absolute;
+
+
+}
+
+.textBold2 {
+
+    position: absolute;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 37.5% 0% 2.5% 2.5%;
+    font-family: 'Raleway', sans-serif;
+
+
+}
+
+
+
+
+.Soleil {
+    position: absolute;
+    background-color: white;
+    background-image: url(/Img/Hebergements/soleil.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 170%;
+    object-fit: contain;
+
+
+
+    border-radius: 28px 0px 0px 28px;
+    width: 170px;
+    height: 173px
+}
+
+.Soleil0 {
+
+    position: absolute;
+    background-color: white;
+    width: 415px;
+
+    height: 170px;
+    border-radius: 28px;
+
+    padding: 0.3% 0.3% 0.3% 0.3%;
+    padding-bottom: 0.5%;
+    box-shadow: 0px 0px 7px 3px #F2F2F2;
+
+
+    margin: 6% 0% 1% 2.5%;
+
+
+}
+
+
+.CarreText3 {
+    position: absolute;
+    font-size: 18px;
+
+    width: 180px;
+    height: 10px;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 16%;
+    margin-left: 46%;
+
+}
+
+.CarreBold4 {
+
+    position: absolute;
+    font-size: 19px;
+    font-weight: bold;
+    width: 50px;
+    height: 10px;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 82.5%;
+    margin-top: 16%
+}
+
+.star0 {
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-left: 46%;
+    margin-top: 33%;
+    color: #0065FC;
+
+
+}
+
+.star01 {
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-left: 50.5%;
+    margin-top: 33%;
+    color: #0065FC;
+
+}
+
+.star02 {
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 33%;
+    color: #0065FC;
+
+}
+
+.star03 {
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-left: 59.5%;
+    margin-top: 33%;
+    color: #0065FC;
+
+}
+
+.star05 {
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-left: 64%;
+    margin-top: 33%;
+    color: #0065FC;
+
+
+}
+
+.CarreBold01 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    width: 250px;
+    height: 10px;
+    font-family: 'Raleway', sans-serif;
+   margin-top: 3%;
+    margin-left: 46%;
+}
+
+
+.star04 {
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-top: 33%;
+    margin-left: 64%;
+    color: #e9e9e9;
+
+
+}
+
+.Eau {
+    position: absolute;
+    background-color: white;
+    background-image: url(/Img/Hebergements/eau.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 152%;
+    object-fit: contain;
+
+
+
+    border-radius: 28px 0px 0px 28px;
+    width: 170px;
+    height: 173px
+}
+
+.Eau0 {
+
+    position: absolute;
+    background-color: white;
+    width: 415px;
+
+    height: 170px;
+    border-radius: 28px;
+
+    padding: 0.3% 0.3% 0.3% 0.3%;
+    padding-bottom: 0.5%;
+    box-shadow: 0px 0px 7px 3px #F2F2F2;
+
+
+    margin: 18% 0% 1% 2.5%;
+
+
+}
+
+
+.Bleu {
+    position: absolute;
+    background-color: white;
+    background-image: url(/Img/Hebergements/bleu.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 108%;
+    object-fit: contain;
+
+
+
+    border-radius: 28px 0px 0px 28px;
+    width: 170px;
+    height: 173px
+}
+
+.Bleu0 {
+
+    position: absolute;
+    background-color: white;
+    width: 415px;
+
+    height: 170px;
+    border-radius: 28px;
+
+    padding: 0.3% 0.3% 0.3% 0.3%;
+    padding-bottom: 0.5%;
+    box-shadow: 0px 0px 7px 3px #F2F2F2;
+
+
+    margin: 30% 0% 1% 2.5%;
+
+
+}
+
+.CarreBold5 {
+
+    position: absolute;
+    font-size: 19px;
+    font-weight: bold;
+    width: 50px;
+    height: 10px;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 80.8%;
+    margin-top: 16%
+}
+
+.CarreBold6 {
+
+    position: absolute;
+    font-size: 19px;
+    font-weight: bold;
+    width: 50px;
+    height: 10px;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 81.6%;
+    margin-top: 16%
+}
+
+
+
+.CarreBold7 {
+    position: absolute;
+    font-size: 19px;
+    font-weight: bold;
+    width: 50px;
+    height: 10px;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 59.5%;
+    margin-left: 51.5%;
+}
+
+.progress {
+position: absolute;
+    width: 200px;
+    height: 200px;
+    
+
+}
+
+.fas.fa-chart-line {
+position: absolute;
+margin-left: 23.5%;
+   margin-top: 2.5%;
+   font-size: 30px;
+}
+
+
+
+@media only screen and (min-width: 321px) and (max-width: 799px){
+
+
+
+    .carre1 {
+        background-color: #F2F2F2;
+        width: 281px;
+        height: 200px;
+        border-radius: 7px;
+        display: inline-block;
+        margin: 2% 1% 1% 5%;
+    
+    
+    }
+    
+    .carre2 {
+        background-color: #F2F2F2;
+        width: 131.75px;
+        height: 200px;
+        border-radius: 7px;
+        float: right;
+        margin: 2% 5% 1% 0%;
+    
+    }
+    
+    
+    .logo {
+        display: block;
+      position: relative;
+        margin-top: 4%;
+        margin-left: 5%;
+        background-color: green;
+        width:37.5px ;
+        
+    }
+    
+    .logoReservia {
+    margin-top: 3%;
+        width: 37.5Px;
+        height: 15px;
+        margin-bottom: 3%;
+        
+        margin-left: 5%;
+    }
+    
+    .Bold {
+        font-size: 7.5px;
+        margin-left: 5%;
+        font-family: 'Raleway', sans-serif;
+        font-weight: bold;
+        margin-bottom: 1.75px;
+     
+    
+    
+    }
+    
+    .normal {
+        font-size: 5.25px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 5%;
+        margin-bottom: 1%;
+    
+    }
+    
+    
+    
+    
+    
+    .normal1 {
+    
+    
+        font-size: 5.25px;
+        font-family: 'Raleway', sans-serif;
+        margin-right: 63.8%;
+        float: right;
+        margin-left: 7%;
+        margin-top: 0.0%;
+        
+    
+    
+    
+    }
+    
+    
+    
+    
+    
+    .text {
+    
+       border: none;
+        width: 75.75px;
+        height: 14.25px;
+        font-family: 'Raleway', sans-serif;
+    font-size: 5.5px;
+    font-weight: bold;
+    
+    }
+    
+    .rechercher2 {
+    
+        background-color: #F2F2F2;
+        width: 76.8px;
+        height: 15.25px;
+        ;
+        border-radius: 5.25px 0px 0px 5.25px;
+        margin-left: 5%;
+        margin-bottom: 3%;
+        padding-left: 3.5%;
+        padding-top: 0.1300%;
+        padding-bottom: 0.0080%;
+        margin-right: 0%;
+        display: inline-block;
+    
+    
+    }
+    
+    .location{
+    
+        position: absolute;
+        margin-top: 1%;
+    margin-left: 6.25%;
+    font-size: 5.75px;
+    
+    }
+    
+    .rechercher3 {
+    
+        background-color: #0065FC;
+        width: 45px;
+        height: 15.5px;
+        ;
+        border-radius: 0px 21px 21px 0px;
+        float: right;
+        margin-right: 65.65%;
+        margin-top: 0.375px;
+        
+        
+    
+    }
+    
+    
+    .rechercher4 {
+    position: absolute;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 500;
+        font-size: 5.75px;
+        margin-top: 0.9%;
+    margin-left: 
+    1.3%;
+    }
+    
+    .Bold6 {
+    
+       
+        font-size: 6.5px;
+        margin-left: 5%;
+    
+        font-family: 'Raleway', sans-serif;
+        font-weight: bolder;
+        margin-top: 3.75px;
+        float: left;
+        background-color: white;
+       
+    width: 15px;
+    height: 15px;
+    
+    
+    }
+    
+    
+    .Bold2 {
+    
+    
+        font-size: 7.5px;
+        margin-left: 5%;
+        font-family: 'Raleway', sans-serif;
+        font-weight: bold;
+        margin-top: 7.5px;
+    
+        position: relative;
+    
+    
+    }
+    
+    
+    .rectangle {
+    
+        background-color: #F2F2F2;
+        width: 452.5px;
+        height: 70px;
+      
+    
+    
+        margin: 3% 5% 1% 2%;
+    
+    }
+    
+    .cercle {
+    
+    
+        position: absolute;
+        background-color: #DEEBFF;
+        width: 17.25px;
+        height: 17.25px;
+        border-radius: 50%;
+     
+        margin-top:-1.25%;
+        margin-left: -1.25%;
+    
+    
+    }
+    
+    .cercle:hover {
+    
+        
+        background-color: #0065FC;
+        
+        
+    
+    }
+    
+    .bill {
+       
+        position: absolute;
+        text-align: center;
+        
+        padding-top: 35%;
+        width: 17.25px;
+        height: 12.25px;
+        border-radius: 50%;
+    z-index: 2;
+        margin-left: 0%;
+    
+    
+    
+    
+    font-size: 5.75px;
+    color: #0065FC;
+    
+    
+    }
+    
+    .bill:hover {
+    
+    color: white;
+    
+    }
+    
+    .rectangle1 {
+    
+        position: absolute;
+        background-color: white;
+        width: 63px;
+        height: 15.75px;
+        border-radius: 33px 33px 33px 33px;
+        border-style: solid;
+        border-color: #DADADA;
+        margin-left: 10.6%;
+    
+    
+        float: right;
+    
+    
+    
+    }
+    
+    .rectangle1:hover .economique
+    
+    {
+    
+        color: #DEEBFF;
+       
+    }
+    
+    
+    .rectangle1:hover .cercle
+    
+    {
+    
+        background-color: #0065FC;
+       
+    }
+    
+    
+    .rectangle1:hover .bill
+    
+    {
+    
+        color: white;
+       
+    }
+    
+    
+    .economique {
+    
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    font-size: 5.5px;
+    font-weight: bold;
+    margin: 6.5% 16% 0% 30%;
+    
+    }
+    
+    
+    
+    
+    
+    
+    .cercle1 {
+    
+        position: absolute;
+        background-color: #DEEBFF;
+        width: 69px;
+        height: 69px;
+        border-radius: 50%;
+    
+        margin-left: 26.2%;
+    
+        margin-top:-1.5%;
+        margin-left: -2%;
+    
+        z-index: 2;
+    
+    
+    }
+    
+    
+    
+    .familial {
+    
+        position: absolute;
+        font-family: 'Raleway', sans-serif;
+        font-size: 5.5px;
+        font-weight: bold;
+        margin: 8.5% 16% 0% 38%;
+        
+        }
+      
+    
+        .child {
+    
+    position: absolute;
+    
+    margin-left: 35%;
+    margin-top: 32%;
+    font-size: 6.75px;
+    
+    
+    color: #0065FC;
+        }
+    
+    
+    
+    .rectangle2 {
+    
+        position: absolute;
+        background-color: white;
+        width: 50px;
+        height: 15.75px;
+        border-radius: 8.25px 8.25px 8.25px 8.25px;
+        border-style: solid;
+        border-color: #DADADA;
+        margin-left: 26.4%;
+    
+    
+        float: right;
+    
+    
+    
+    }
+    
+    
+    .rectangle2:hover .cercle1 {
+    
+        background-color: #0065FC;
+    
+    
+    }
+    
+    .rectangle2:hover .child {
+    
+        
+    color: white;
+    
+    }
+    
+    .rectangle2:hover .familial {
+    
+        color: #DEEBFF;
+        
+    }
+    
+    
+    
+    
+    
+    
+    .romantique {
+    
+        position: absolute;
+        font-family: 'Raleway', sans-serif;
+        font-size: 5.5px;
+        font-weight: bold;
+        margin: 8.5% 16% 0% 34%;
+        
+        }
+        
+    
+    
+    .cercle2 {
+    
+        position: absolute;
+        background-color: #DEEBFF;
+        width: 17.25px;
+        height: 17.25px;
+        border-radius: 50%;
+    
+        margin-left: 38.7%;
+    
+        margin-top:-1.5%;
+        margin-left: -2%;
+    
+        z-index: 2;
+    
+    
+    }
+    
+    
+    .coeur {
+    
+        margin-left: 30%;
+        margin-top: 36%;
+        font-size: 5.75px;
+        color: #0065FC;
+        
+        
+        }
+    
+    
+    
+    .rectangle3 {
+    
+        position: absolute;
+        background-color: white;
+        width: 55px;
+        height: 15.75px;
+        border-radius: 8.25px 8.25px 8.25px 8.25px;
+        border-style: solid;
+        border-color: #DADADA;
+        margin-left: 39.5%;
+       
+    
+        float: right;
+    
+    
+    
+    }
+    
+    
+    
+    .rectangle3:hover .cercle2 {
+    
+        background-color: #0065FC;
+        
+    }
+    
+    
+    
+    .rectangle3:hover .coeur {
+    
+        color:white;
+        
+    }
+    
+    .rectangle3:hover .romantique {
+    
+    
+        color: #DEEBFF;
+    
+        
+    }
+    
+    .animaux {
+    
+        position: absolute;
+        font-family: 'Raleway', sans-serif;
+        font-size: 5.5px;
+        font-weight: bold;
+        margin: 6.5% 16% 0% 25%;
+        width: 50px;
+        }
+    
+    .cercle3 {
+    
+        position: absolute;
+        background-color: #DEEBFF;
+        width: 17.25px;
+        height: 17.25px;
+        border-radius: 50%;
+    
+        margin-top:-1.5%;
+        margin-left: -2%;
+    
+        
+    
+        z-index: 2;
+    
+    
+    }
+    
+    
+    .chien {
+    
+        margin-left: 30%;
+        margin-top: 36%;
+        font-size: 5.75px;
+        color: #0065FC;
+        
+        
+        }
+    
+    
+    
+    
+    .rectangle4 {
+    
+        position: absolute;
+        background-color: white;
+        width: 290px;
+        height: 63px;
+        border-radius: 8.25px 8.25px 8.25px 8.25px;
+        border-style: solid;
+        border-color: #DADADA;
+        margin-left: 53%;
+    
+    
+        float: right;
+    
+    
+    
+    }
+    
+    .rectangle4:hover .chien {
+    
+    color: white;
+    
+    }
+    
+    .rectangle4:hover .cercle3 {
+    
+    background-color: #0065FC;
+    
+    }
+    
+    .rectangle4:hover .animaux {
+    
+    color: #DEEBFF;
+    
+    }
+    
+    
+    
+    
+    
+    
+    .textRectangle1 {
+    
+    
+    
+        margin-top: 2.5%;
+        margin-left: 3.5%;
+        float: left;
+    
+    
+    
+    
+    
+    }
+    
+    .textRectangle2 {
+    
+    
+    
+        width: 62.5px;
+        margin-left: 18%;
+        display: inline-block;
+        margin-top: 2.5%;
+    
+    
+    
+    
+    }
+    
+    .textRectangle3 {
+    
+    
+        margin-top: 2.5%;
+        margin-right: 26%;
+        float: right;
+    
+    }
+    
+    
+    .textBold {
+        font-size: 6.25px;
+    
+        font-family: 'Raleway', sans-serif;
+        font-weight: bold;
+    
+    
+    
+    }
+    
+    .textBold1 {
+        font-size: 5.5px;
+    
+    
+        font-family: 'Raleway', sans-serif;
+    
+    
+    
+    
+    
+    
+    
+    }
+    
+    
+    
+    .menu{
+    
+       
+    }
+    
+    a {
+    
+        text-decoration: none;
+     color: black;
+    }
+    
+    
+    .hébergements {
+      
+    position: absolute;
+        width: 35px;
+        font-size: 5px;
+        font-weight: 500;
+    margin-left: 68%;
+    display: block;
+    margin-top: 15px;
+    color: black;
+    
+      
+        font-family: 'Raleway', sans-serif;
+        
+    }
+    
+    
+    .hébergements:hover {
+    position: absolute;
+        width: 50px;
+        padding-left: 2.5%;
+        margin-left: 65.5%;
+        color:#0065FC;
+    
+    
+    }
+    
+    .Barre::before {
+      
+    position: absolute;
+        margin-left: 68%;
+        margin-top: 15px;
+        content: "";
+        
+        height: 0.25em;
+        width: 0%;
+       
+        background-color: #0065FC;
+       
+        display:inline-block ;
+        
+    
+    }
+    
+    .Barre:hover::before{
+    
+    
+    position: absolute;
+    width: 13%;
+    margin-left: 65.5%;
+    margin-top: 0px;   
+        
+    }
+    
+    .activités {
+      
+        position: absolute;
+            width:21.25px;
+            font-size: 5px;
+            font-weight: 500;
+        margin-left: 79.8%;
+        display: block;
+        margin-top: 15px;
+        color: black;
+        
+          
+            font-family: 'Raleway', sans-serif;
+            
+        }
+        
+        
+        .activités:hover {
+        position: absolute;
+            width: 32.5px;
+            padding-left: 2.5%;
+            margin-left: 77.3%;
+          color:#0065FC;
+        
+        
+        }
+        
+        .Barre1::before {
+          
+        position: absolute;
+            margin-left: 79.8%;
+            margin-top: 15px;
+            content: "";
+            
+            height: 0.25em;
+            width: 0%;
+           
+            background-color: #0065FC;
+           
+            display:inline-block ;
+            
+        
+        }
+        
+        .Barre1:hover::before{
+        
+        
+        position: absolute;
+        width: 10%;
+        margin-left: 77.3%;
+        margin-top: 0px;   
+            
+        }
+        
+    
+    
+        .inscription {
+      
+            position: absolute;
+                width: 21.25px;
+                font-size: 5px;
+                font-weight: bold;
+            margin-left: 88.8%;
+            display: block;
+            margin-top: 15px;
+            
+         
+            
+             
+                font-family: 'Raleway', sans-serif;
+                color: #0065FC;
+            }
+            
+            
+            .inscription:hover {
+            position: absolute;
+                width: 32.5px;
+                padding-left: 2.5%;
+                margin-left: 86.3%;
+    
+              
+            
+            
+            }
+    
+            
+            
+            .Barre2::before {
+              
+            position: absolute;
+                margin-left: 88.8%;
+                margin-top: 15px;
+                content: "";
+                
+                height: 0.25em;
+                width: 0%;
+               
+                background-color: #0065FC;
+               
+                display:inline-block ;
+                
+            
+            }
+            
+            .Barre2:hover::before{
+            
+            
+            position: absolute;
+            width: 10%;
+            margin-left: 86.3%;
+            margin-top: 0px;   
+                
+            }
+    
+    
+    .miniCercle{
+        margin-left: 5%;
+        position: absolute;
+     
+        border-style:solid;
+        border-color: #F2F2F2;
+        border-width: 2px;
+        border-radius: 4px;
+        padding: 0.3% 0.6% 0.3% 0.6%;
+        margin-top: -0.05%;
+    font-size: 3.5px;
+    color: #0065FC;
+    
+    
+    }
+    
+    
+    
+    
+    .VieuxPort {
+        position: absolute;
+        background-color: white;
+        width: 100px;
+    
+        height: 11.25px;
+        border-radius: 7px;
+    
+        padding-bottom: 0.5%;
+    
+        padding-top: 27.7%;
+        box-shadow: 0px 0px 1.75px 1.75px #F2F2F2;
+        margin: 1.3% 0% 1% 5%;
+    
+    
+    }
+    
+    
+    
+    .VieuxPort0 {
+    
+        position: absolute;
+        background-image: url(/Img/Activités/VieuxPort.jpg);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: 0px;
+    
+        background-size: 220%;
+        z-index: 1;
+        border-radius: 28px 28px 0% 0%;
+        width: 100px;
+        height: 128.75px;
+        margin: 1.3% 0% 1% 5%;
+    
+    
+    }
+    
+    
+    .Bold1 {
+        position: absolute;
+        font-size: 5px;
+        font-weight: bold;
+        width: 50px;
+        height: 2.5px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 5%;
+        margin-top: 4%;
+    
+    }
+    
+    .Bold0 {
+        position: absolute;
+        font-size: 5px;
+        font-weight: bold;
+        width: 50px;
+        height: 2.5px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 5%;
+        margin-top: 3%;
+    
+    }
+    
+    
+    
+    .FortDePomègues {
+        position: absolute;
+        background-color: white;
+        background-image: url(/Img/Activités/Frioul.jpg);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: -32.5px;
+        background-size: 100%;
+        object-fit: cover;
+    
+    
+    
+        border-radius: 7px 7px 0% 0%;
+        width: 100px;
+        height: 58px;
+    
+    
+        margin: 1.3% 0% 1% 28%;
+    
+    }
+    
+    .FortDePomègues0 {
+    
+        position: absolute;
+        background-color: white;
+        width: 100px;
+    
+        height: 12.5px;
+        border-radius: 7px;
+    
+        padding-top: 12.5%;
+        padding-bottom: 0.5%;
+        box-shadow: 0px 0px 1.75px 0.75px #F2F2F2;
+    
+    
+        margin: 1.3% 0% 1% 28%;
+    
+    
+    }
+    
+    
+    
+    .Port {
+        position: absolute;
+        background-color: white;
+        background-image: url(/Img/Activités/Port.jpg);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: -3.75px;
+        background-size: 100%;
+        overflow: hidden;
+    
+    
+    
+        border-radius: 7px 7px 0% 0%;
+        width: 100px;
+        height: 37.5px;
+    
+    
+        margin: 20.5% 0% 1% 28%;
+    
+    }
+    
+    .Port0 {
+    
+        position: absolute;
+        background-color: white;
+        width: 100px;
+    
+        height: 12.5px;
+        border-radius: 28px;
+    
+        padding-top: 8.2%;
+        padding-bottom: 0.5%;
+        box-shadow: 0px 0px 1.75px 0.75px #F2F2F2;
+    
+    
+        margin: 20.5% 0% 1% 28%;
+    
+    
+    }
+    
+    
+    
+    .Calanques {
+        position: absolute;
+        background-color: white;
+        width: 100px;
+    
+        height: 45px;
+        border-radius: 7px;
+    
+        padding-bottom: 1%;
+    
+    
+        box-shadow: 0px 0px 7px 7px #F2F2F2;
+        margin: 1.3% 0% 1% 51%;
+    
+    
+        padding-top: 27.2%;
+    
+    
+    }
+    
+    
+    
+    .Calanques0 {
+    
+        position: absolute;
+        background-image: url(/Img/Activités/Calanques.jpg);
+        background-repeat: no-repeat;
+        background-position-x: -60.25px;
+        background-position-y: -0px;
+        background-size: 221%;
+        z-index: 1;
+        border-radius: 7px 7px 0% 0%;
+        width: 100px;
+        height: 128.75px;
+        margin: 1.3% 0% 1% 51%;
+    
+    
+    
+    }
+    
+    .Bold3 {
+    
+        position: absolute;
+        font-size: 23px;
+        margin-left: 5%;
+    
+        font-family: 'Raleway', sans-serif;
+        font-weight: bold;
+        margin-top: 5.75px;
+        float: left;
+        background-color: white;
+        width: 87.5px;
+        height: 7.5px;
+    }
+    
+    
+    
+    
+    .NotreDame {
+        position: absolute;
+        background-color: white;
+        background-image: url(/Img/Activités/NotreDame.jpg);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: top;
+        background-size: 100%;
+        object-fit: cover;
+    
+    
+    
+        border-radius: 7px 7px 0% 0%;
+        width: 100px;
+        height: 46.25px;
+    
+    
+        margin: 1.3% 5% 1% 75%;
+    
+    }
+    
+    .NotreDame0 {
+    
+        position: absolute;
+        background-color: white;
+        width: 100px;
+    
+        height: 12.5px;
+        border-radius: 7px;
+    
+        padding-top: 9.8%;
+        padding-bottom: 0.8%;
+        box-shadow: 0px 0px 1.75px 0.75px #F2F2F2;
+    
+    
+        margin: 1.3% 5% 1% 75%;
+    
+    
+    }
+    
+    .Parc {
+        position: absolute;
+        background-color: white;
+        background-image: url(/Img/Activités/Parc5.jpg);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: 0px;
+        background-size: 100%;
+        object-fit: cover;
+    
+    
+    
+        border-radius: 7px 7px 0% 0%;
+        width: 100px;
+        height: 53.5px;
+    
+    
+        margin: 17.1% 10% 1% 75%;
+    
+    }
+    
+    .Parc0 {
+    
+        position: absolute;
+        background-color: white;
+        width: 100px;
+    
+        height: 12.5px;
+        border-radius: 7px;
+    
+        padding-top: 11.5%;
+        padding-bottom: 0.5%;
+        box-shadow: 0px 0px 1.75px 0.75px #F2F2F2;
+    
+    
+        margin: 17.1% 5% 1% 75%;
+    
+    
+    }
+    
+    .Canebiere {
+        position: absolute;
+        background-color: white;
+        background-image: url(/Img/Hebergements/canebiere.jpg);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: center;
+        background-size: 100%;
+        object-fit: cover;
+    
+    
+    
+        border-radius: 7px 7px 0% 0%;
+        width: 75px;
+        height: 37.5px
+    }
+    
+    .Canebiere0 {
+    
+        position: absolute;
+        background-color: white;
+        width: 75px;
+    
+        height: 60px;
+        border-radius: 7px;
+    
+        padding: 0.3% 0.3% 0.3% 0.3%;
+        padding-bottom: 0.5%;
+        box-shadow: 0px 0px 1.75px 0.75px #F2F2F2;
+    
+    
+        margin: 6% 0% 1% 2.5%;
+    
+    
+    }
+    
+    .CarreBold1 {
+        position: absolute;
+        font-size: 5.25px;
+        font-weight: bold;
+        width: 62.5px;
+        height: 2.5px;
+        font-family: 'Raleway', sans-serif;
+        margin-top: 50.5%;
+        margin-left: 4%;
+    }
+    
+    
+    .CarreText1 {
+        position: absolute;
+        font-size: 4.5px;
+    
+        width: 37.5px;
+        height: 2.5px;
+        font-family: 'Raleway', sans-serif;
+        margin-top: 59.5%;
+        margin-left: 4%;
+    
+    }
+    
+    .CarreBold2 {
+        position: absolute;
+        font-size: 19px;
+        font-weight: bold;
+        width: 50px;
+        height: 10px;
+        font-family: 'Raleway', sans-serif;
+        margin-top: 59.5%;
+        margin-left: 47%;
+    }
+    
+    
+    
+    .star {
+    
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        position: absolute;
+        margin-top: 67.5%;
+        margin-left: 4%;
+        color: #0065FC;
+    
+    }
+    
+    .star1 {
+    
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        position: absolute;
+        margin-top: 67.5%;
+        margin-left: 10%;
+        color: #0065FC;
+    
+    }
+    
+    .star2 {
+    
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        position: absolute;
+        margin-top: 67.5%;
+        margin-left: 16%;
+        color: #0065FC;
+    
+    }
+    
+    .star3 {
+    
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        position: absolute;
+        margin-top: 67.5%;
+        margin-left: 22%;
+        color: #0065FC;
+    
+    }
+    
+    .star4 {
+    
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        position: absolute;
+        margin-top: 67.5%;
+        margin-left: 28%;
+        color: #e9e9e9;
+    
+    
+    }
+    
+    .HotelPort {
+        position: absolute;
+        background-color: white;
+        background-image: url(/Img/Hebergements/port.jpg);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: center;
+        background-size: 110%;
+        object-fit: cover;
+    
+    
+    
+        border-radius: 28px 28px 0% 0%;
+        width: 300px;
+        height: 150px
+    }
+    
+    .HotelPort0 {
+    
+        position: absolute;
+        background-color: white;
+        width: 300px;
+    
+        height: 240px;
+        border-radius: 28px;
+    
+        padding: 0.3% 0.3% 0.3% 0.3%;
+        padding-bottom: 0.5%;
+        box-shadow: 0px 0px 7px 3px #F2F2F2;
+    
+    
+        margin: 6% 0% 1% 21.25%;
+    
+    
+    }
+    
+    .CarreText2 {
+        position: absolute;
+        font-size: 18px;
+    
+        width: 180px;
+        height: 10px;
+        font-family: 'Raleway', sans-serif;
+        margin-top: 59.5%;
+        margin-left: 4%;
+    
+    }
+    
+    .star5 {
+    
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        position: absolute;
+        margin-top: 67.5%;
+        margin-left: 28%;
+        color: #0065FC;
+    
+    
+    }
+    
+    .Mouettes {
+        position: absolute;
+        background-color: white;
+        background-image: url(/Img/Hebergements/mouettes.jpg);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: center;
+        background-size: 100%;
+        object-fit: cover;
+    
+    
+    
+        border-radius: 28px 28px 0% 0%;
+        width: 300px;
+        height: 150px
+    }
+    
+    .Mouettes0 {
+    
+        position: absolute;
+        background-color: white;
+        width: 300px;
+    
+        height: 240px;
+        border-radius: 28px;
+    
+        padding: 0.3% 0.3% 0.3% 0.3%;
+        padding-bottom: 0.5%;
+        box-shadow: 0px 0px 7px 3px #F2F2F2;
+    
+    
+        margin: 6% 2.3% 1% 40%;
+    
+    
+    }
+    
+    .Mer {
+        position: absolute;
+        background-color: white;
+        background-image: url(/Img/Hebergements/mer.jpg);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: center;
+        background-size: 100%;
+        object-fit: cover;
+    
+    
+    
+        border-radius: 28px 28px 0% 0%;
+        width: 300px;
+        height: 150px
+    }
+    
+    .Mer0 {
+    
+        position: absolute;
+        background-color: white;
+        width: 300px;
+    
+        height: 240px;
+        border-radius: 28px;
+    
+        padding: 0.3% 0.3% 0.3% 0.3%;
+        padding-bottom: 0.5%;
+        box-shadow: 0px 0px 7px 3px #F2F2F2;
+    
+    
+        margin: 21.8% 0% 1% 2.5%;
+    
+    
+    }
+    
+    .star6 {
+    
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        position: absolute;
+        margin-top: 67.5%;
+        margin-left: 22%;
+        color: #e9e9e9;
+    
+    
+    }
+    
+    .Panier {
+        position: absolute;
+        background-color: white;
+        background-image: url(/Img/Hebergements/panier.jpg);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: center;
+        background-size: 100%;
+        object-fit: cover;
+    
+    
+    
+        border-radius: 28px 28px 0% 0%;
+        width: 300px;
+        height: 150px
+    }
+    
+    .Panier0 {
+    
+        position: absolute;
+        background-color: white;
+        width: 300px;
+    
+        height: 240px;
+        border-radius: 28px;
+    
+        padding: 0.3% 0.3% 0.3% 0.3%;
+        padding-bottom: 0.5%;
+        box-shadow: 0px 0px 7px 3px #F2F2F2;
+    
+    
+        margin: 21.8% 2.3% 1% 21.25%;
+    
+    
+    }
+    
+    .Amina {
+        position: absolute;
+        background-color: white;
+        background-image: url(/Img/Hebergements/amina.jpg);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: center;
+        background-size: 100%;
+        object-fit: cover;
+    
+    
+    
+        border-radius: 28px 28px 0% 0%;
+        width: 300px;
+        height: 150px
+    }
+    
+    .Amina0 {
+    
+        position: absolute;
+        background-color: white;
+        width: 300px;
+    
+        height: 240px;
+        border-radius: 28px;
+    
+        padding: 0.3% 0.3% 0.3% 0.3%;
+        padding-bottom: 0.5%;
+        box-shadow: 0px 0px 7px 3px #F2F2F2;
+    
+    
+        margin: 21.8% 2.3% 1% 40%;
+    
+    
+    }
+    
+    .CarreBold3 {
+    
+        position: absolute;
+        font-size: 19px;
+        font-weight: bold;
+        width: 50px;
+        height: 10px;
+        font-family: 'Raleway', sans-serif;
+        margin-top: 59.5%;
+        margin-left: 54.1%;
+    
+    }
+    
+    
+    .Bold5 {
+    
+    
+        font-size: 30px;
+        margin: 2.5% 0% 2.5% 2.5%;
+        font-family: 'Raleway', sans-serif;
+        font-weight: bold;
+        
+    
+        position: absolute;
+    
+    
+    }
+    
+    .textBold2 {
+    
+        position: absolute;
+        font-size: 25px;
+        font-weight: bold;
+        margin: 37.5% 0% 2.5% 2.5%;
+        font-family: 'Raleway', sans-serif;
+    
+    
+    }
+    
+    
+    
+    
+    .Soleil {
+        position: absolute;
+        background-color: white;
+        background-image: url(/Img/Hebergements/soleil.jpg);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: center;
+        background-size: 170%;
+        object-fit: contain;
+    
+    
+    
+        border-radius: 28px 0px 0px 28px;
+        width: 170px;
+        height: 173px
+    }
+    
+    .Soleil0 {
+    
+        position: absolute;
+        background-color: white;
+        width: 415px;
+    
+        height: 170px;
+        border-radius: 28px;
+    
+        padding: 0.3% 0.3% 0.3% 0.3%;
+        padding-bottom: 0.5%;
+        box-shadow: 0px 0px 7px 3px #F2F2F2;
+    
+    
+        margin: 6% 0% 1% 2.5%;
+    
+    
+    }
+    
+    
+    .CarreText3 {
+        position: absolute;
+        font-size: 18px;
+    
+        width: 180px;
+        height: 10px;
+        font-family: 'Raleway', sans-serif;
+        margin-top: 16%;
+        margin-left: 46%;
+    
+    }
+    
+    .CarreBold4 {
+    
+        position: absolute;
+        font-size: 19px;
+        font-weight: bold;
+        width: 50px;
+        height: 10px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 82.5%;
+        margin-top: 16%
+    }
+    
+    .star0 {
+    
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        position: absolute;
+        margin-left: 46%;
+        margin-top: 33%;
+        color: #0065FC;
+    
+    
+    }
+    
+    .star01 {
+    
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        position: absolute;
+        margin-left: 50.5%;
+        margin-top: 33%;
+        color: #0065FC;
+    
+    }
+    
+    .star02 {
+    
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        position: absolute;
+        margin-left: 55%;
+        margin-top: 33%;
+        color: #0065FC;
+    
+    }
+    
+    .star03 {
+    
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        position: absolute;
+        margin-left: 59.5%;
+        margin-top: 33%;
+        color: #0065FC;
+    
+    }
+    
+    .star05 {
+    
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        position: absolute;
+        margin-left: 64%;
+        margin-top: 33%;
+        color: #0065FC;
+    
+    
+    }
+    
+    .CarreBold01 {
+        position: absolute;
+        font-size: 20px;
+        font-weight: bold;
+        width: 250px;
+        height: 10px;
+        font-family: 'Raleway', sans-serif;
+       margin-top: 3%;
+        margin-left: 46%;
+    }
+    
+    
+    .star04 {
+    
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        position: absolute;
+        margin-top: 33%;
+        margin-left: 64%;
+        color: #e9e9e9;
+    
+    
+    }
+    
+    .Eau {
+        position: absolute;
+        background-color: white;
+        background-image: url(/Img/Hebergements/eau.jpg);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: center;
+        background-size: 152%;
+        object-fit: contain;
+    
+    
+    
+        border-radius: 28px 0px 0px 28px;
+        width: 170px;
+        height: 173px
+    }
+    
+    .Eau0 {
+    
+        position: absolute;
+        background-color: white;
+        width: 415px;
+    
+        height: 170px;
+        border-radius: 28px;
+    
+        padding: 0.3% 0.3% 0.3% 0.3%;
+        padding-bottom: 0.5%;
+        box-shadow: 0px 0px 7px 3px #F2F2F2;
+    
+    
+        margin: 18% 0% 1% 2.5%;
+    
+    
+    }
+    
+    
+    .Bleu {
+        position: absolute;
+        background-color: white;
+        background-image: url(/Img/Hebergements/bleu.jpg);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: center;
+        background-size: 108%;
+        object-fit: contain;
+    
+    
+    
+        border-radius: 28px 0px 0px 28px;
+        width: 170px;
+        height: 173px
+    }
+    
+    .Bleu0 {
+    
+        position: absolute;
+        background-color: white;
+        width: 415px;
+    
+        height: 170px;
+        border-radius: 28px;
+    
+        padding: 0.3% 0.3% 0.3% 0.3%;
+        padding-bottom: 0.5%;
+        box-shadow: 0px 0px 7px 3px #F2F2F2;
+    
+    
+        margin: 30% 0% 1% 2.5%;
+    
+    
+    }
+    
+    .CarreBold5 {
+    
+        position: absolute;
+        font-size: 19px;
+        font-weight: bold;
+        width: 50px;
+        height: 10px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 80.8%;
+        margin-top: 16%
+    }
+    
+    .CarreBold6 {
+    
+        position: absolute;
+        font-size: 19px;
+        font-weight: bold;
+        width: 50px;
+        height: 10px;
+        font-family: 'Raleway', sans-serif;
+        margin-left: 81.6%;
+        margin-top: 16%
+    }
+    
+    
+    
+    .CarreBold7 {
+        position: absolute;
+        font-size: 19px;
+        font-weight: bold;
+        width: 50px;
+        height: 10px;
+        font-family: 'Raleway', sans-serif;
+        margin-top: 59.5%;
+        margin-left: 51.5%;
+    }
+    
+    .progress {
+    position: absolute;
+        width: 200px;
+        height: 200px;
+        
+    
+    }
+    
+    .fas.fa-chart-line {
+    position: absolute;
+    margin-left: 23.5%;
+       margin-top: 2.5%;
+       font-size: 30px;
+    }
+    
+
+    }
+
+
